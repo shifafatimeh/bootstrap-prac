@@ -1,0 +1,50 @@
+.ruby {
+  height: 520px;
+  width: 1400;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+  border: none;
+}
+.btn-danger:hover {
+  color: #fff;
+  background-color: #a31532;
+  border: none;
+}
+
+.icon-link:hover {
+  text-decoration: underline;
+}
+
+.form-control::placeholder {
+  color: #706f6f;
+}
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu li:hover {
+  color: aliceblue !important;
+}
+.ore {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+}
+.oreq-mn {
+  padding-top: 1rem;
+}
+.idet {
+  margin-top: 1rem;
+}
+.ide {
+  background-color: #706f6f;
+  border: none;
+}
+.ide:hover {
+  background-color: rgb(87, 92, 92);
+}
+.verx .buix .biuz .mko:hover {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
